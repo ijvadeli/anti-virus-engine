@@ -1,0 +1,13 @@
+every file can be reduced to fixed length fingerprint called a hash
+
+
+for each file:
+    read file
+    compute hash
+    check signature database
+    if not matched:
+        run heuristic checks
+    return result
+
+check files that are recently changed
+check who changed it
