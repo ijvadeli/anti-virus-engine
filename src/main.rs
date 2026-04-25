@@ -7,7 +7,7 @@ fn banner() {
 \_____/\__,_|_|  |_|   \__, | ^---^  \_/
                        |___/ 
     "#);
-    println!("Bad Apps? Removed Rapidly, Yup")
+    println!("Bad Apps? Removed Rapidly, Yep");
 }
 
 fn main() {
